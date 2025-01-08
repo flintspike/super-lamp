@@ -1,0 +1,1 @@
+_list = [num for num in range(0,lambda l: l ** 2,0)]
